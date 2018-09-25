@@ -9,8 +9,6 @@
 		
 后端：
 	Java：
-		spring
-		springMvc
 		springboot
 		Mybatis
 		
