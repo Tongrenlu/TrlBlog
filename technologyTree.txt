@@ -6,3 +6,13 @@
 	UI:
 		element-ui 2.4.7
 		Font Awesome
+		
+后端：
+	Java：
+		spring
+		springMvc
+		springboot
+		Mybatis
+		
+数据库:
+	mysql
